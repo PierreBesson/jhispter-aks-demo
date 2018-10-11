@@ -1,0 +1,20 @@
+{
+  "generator-jhipster": {
+    "appsFolders": [
+      "accountancy",
+      "crm",
+      "store"
+    ],
+    "directoryPath": "/Users/pierre/ippon/voxxeddays-workshop/",
+    "clusteredDbApps": [],
+    "serviceDiscoveryType": "eureka",
+    "jwtSecretKey": "ZTg1ZTgwOTYxNTRkM2E3MDE4Y2Y3YWNmNjE5ZTk2OWZjMTRmZjEwZDQ4NmY5Y2E2YWU1NmM3ODg3YjAxNTgzZmU2NjA5ZDkzYmY3YmExOTY1ZmMyZTI5MDA2M2VkNTY4OWQzNw==",
+    "dockerRepositoryName": "pbesson",
+    "dockerPushCommand": "docker push",
+    "kubernetesNamespace": "default",
+    "kubernetesServiceType": "LoadBalancer",
+    "monitoring": "no",
+    "istio": "no",
+    "istioRoute": false
+  }
+}
